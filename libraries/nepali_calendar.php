@@ -4,7 +4,7 @@
 /**
 * Date converter Class
 *
-* 
+* you can convert date till 2090 
 *
 * 
 * 
