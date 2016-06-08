@@ -13,3 +13,4 @@ Other Features/Methods<br>
 3) function get_nepali_month($m);<br>
 4) function is_leap_year($year);<br>
 
+# Codeigniter Class as a Library Class
